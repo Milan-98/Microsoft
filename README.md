@@ -3,7 +3,7 @@
 
 
 In this I made Microsoft Clone form my own prespective and make it compatible with every screen sizes.
-I also use technologies like tailwind in this project.
+I also used technologies like tailwind in this project.
 
 Day 36 Of Web Devlopment Date:-17 Dec 2022
 ## Lessons Learned
