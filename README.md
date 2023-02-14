@@ -10,7 +10,7 @@ Day 36 Of Web Devlopment Date:-17 Dec 2022
 
  Got more Knowledge about tailwind css And get fimiliar with css properties in tailwindcss.
 
-##ScreenShots
+## ScreenShots
 ![microsodt 1](https://user-images.githubusercontent.com/114464208/216959638-8b185c6f-c999-4343-b3fd-2c27c6108dc5.png)
 
 ![microsdsod fwdf](https://user-images.githubusercontent.com/114464208/216959648-8ed5325a-98ed-4a97-9891-8facfbe70d0f.png)
